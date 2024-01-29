@@ -1,6 +1,6 @@
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> , I am Divyesh P K
 
-I am a Network Engineer. Working my way up toward being a Software Engineer.
+I am a Network Engineer. Working my way up toward being a Nodejs Developer.
 
 
 
