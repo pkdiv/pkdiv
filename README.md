@@ -5,7 +5,7 @@ I am a Network Engineer. Working my way up toward being a Developer.
 
 
 ## 🛠 &nbsp; Languages and Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  height="35" width="35"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" width="35"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" width="35"/> &nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" width="35" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" width="35"/>
+[![My Skills](https://skillicons.dev/icons?i=go,nodejs,react,tailwind,aws)](https://skillicons.dev)
           
           
 ## ✈️ Connect with me:
