@@ -5,7 +5,7 @@ I am a Network Engineer. Working my way up toward being a Developer.
 
 
 ## 🛠 &nbsp; Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=go,nodejs,react,tailwind,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,tailwind,aws)](https://skillicons.dev)
           
           
 ## ✈️ Connect with me:
