@@ -5,7 +5,10 @@ I am a Network Engineer.
 
 ## 🛠 &nbsp; Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,tailwind,aws,rust)](https://skillicons.dev)
-          
+
+## 🔥 My Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pkdiv&theme=dark&background=000000)](https://git.io/streak-stats)
           
 ## ✈️ Connect with me:
           
