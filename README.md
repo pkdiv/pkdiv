@@ -8,7 +8,9 @@ I am a Network Engineer.
 
 ## 🔥 My Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pkdiv&theme=gruvbox&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pkdiv&theme=dark&mode=weekly)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkdiv)](https://github.com/anuraghazra/github-readme-stats)
           
 ## ✈️ Connect with me:
           
