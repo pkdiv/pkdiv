@@ -6,11 +6,6 @@ I am a Network Engineer.
 ## 🛠 &nbsp; Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,tailwind,aws,rust)](https://skillicons.dev)
 
-## 🔥 My Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pkdiv&theme=dark&mode=weekly)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkdiv)](https://github.com/anuraghazra/github-readme-stats)
           
 ## ✈️ Connect with me:
           
