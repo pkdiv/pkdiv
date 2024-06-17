@@ -4,7 +4,7 @@ I am a Network Engineer.
 
 
 ## 🛠 &nbsp; Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,tailwind,aws,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,tailwind,aws,nextjs,bash,cpp)](https://skillicons.dev)
 
           
 ## ✈️ Connect with me:
