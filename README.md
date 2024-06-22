@@ -1,6 +1,6 @@
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> , I am Divyesh P K
 
-I am a Network Engineer. 
+I am a Network Engineer, Developer and also spend time learning security 
 
 
 ## 🛠 &nbsp; Languages and Tools
