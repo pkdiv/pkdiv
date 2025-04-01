@@ -4,7 +4,7 @@ I am a Network Engineer, Developer and also spend time learning security
 
 
 ## 🛠 &nbsp; Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=aws,python,bash,cpp,nodejs,react,tailwind,nextjs)](https://github.com/pkdiv)
+[![My Skills](https://skillicons.dev/icons?i=aws,python,bash,cpp,nodejs)](https://github.com/pkdiv)
 
           
 ## ✈️ Connect with me:
