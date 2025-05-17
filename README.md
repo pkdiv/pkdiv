@@ -4,7 +4,7 @@ I am a Network Engineer, Developer and learning security
 
 
 ## 🛠 &nbsp; Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=ansible,aws,bash,cpp,docker,kubernetes,python)](https://github.com/pkdiv)
+[![My Skills](https://skillicons.dev/icons?i=ansible,aws,bash,cpp,docker,jenkins,kubernetes,python)](https://github.com/pkdiv)
 
           
 ## ✈️ Connect with me:
