@@ -1,10 +1,17 @@
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> , I am Divyesh P K
 
-I am a Network Engineer, Developer and learning security 
+Network Security Engineer with a strong foundation in Security and Networking. Aspiring Security Architect.
+
+Engineer at heart, Security Architect in the making 😎
 
 
 ## 🛠 &nbsp; Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=ansible,aws,bash,cpp,docker,jenkins,kubernetes,python)](https://github.com/pkdiv)
+
+## 📚 Currently learning
+
+- Security Architecture & Threat Modeling  
+- Automation with CI/CD
 
           
 ## ✈️ Connect with me:
