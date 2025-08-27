@@ -16,7 +16,8 @@ Engineer at heart, Security Architect in the making 😎
           
 ## ✈️ Connect with me:
           
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyeshpk/) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pkdivyesh)
+
+| [LinkedIn](https://www.linkedin.com/in/divyeshpk/) | [Twitter](https://twitter.com/pkdivyesh) | [Website](https://pkdiv.com/) | [Medium](https://medium.com/@pkdiv) | 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pkdiv/pkdiv/output/github-snake-dark.svg" />
