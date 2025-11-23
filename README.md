@@ -6,7 +6,7 @@ Engineer at heart, Architect in the making 😎
 
 
 ## 🛠 &nbsp; Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=ansible,aws,bash,cpp,docker,jenkins,kubernetes,python)](https://github.com/pkdiv)
+[![My Skills](https://skillicons.dev/icons?i=ansible,go,aws,bash,cpp,docker,jenkins,kubernetes,python)](https://github.com/pkdiv)
 
 ## 📚 Currently learning
 
