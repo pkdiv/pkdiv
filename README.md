@@ -1,8 +1,8 @@
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> , I am Divyesh P K
 
-Network Security Engineer with a strong foundation in Security and Networking. Aspiring Security Architect.
+Learning and building random stuff
 
-Engineer at heart, Security Architect in the making 😎
+Engineer at heart, Architect in the making 😎
 
 
 ## 🛠 &nbsp; Languages and Tools
